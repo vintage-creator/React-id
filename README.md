@@ -1,4 +1,4 @@
-> <h2>ReactId is a function that generates unique identifiers which can be used when mapping through list of .items in React.Js.</h2>
+> <h2>ReactId is a function that generates unique identifiers which can be used when mapping through the list of items in React.Js.</h2>
 
 > <h2>How to Install:</h2>
 > <h3>Run npm install reactjs-id in your CLI</h3>
